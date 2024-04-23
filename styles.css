@@ -1,0 +1,52 @@
+*
+{
+    background-color :#D0D3D9;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+header
+{
+    background-color: #396f91;
+    padding: 10px;
+    border-radius: 100px;
+}
+header a
+{
+    background-color: #396f91;
+    color:rgb(211, 209, 209);
+    border-radius: 10px;
+    margin: 30px;
+}
+h1
+{
+    color:  #396f91;
+}
+
+.indie-flower-regular
+ {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+h2
+{
+    color:#4eabe6;
+}
+h4
+{
+    color: #396f91;
+    font-weight: normal;
+}
+#img
+{
+    border-color:#047192;
+    border-style:solid;
+    border-width: 10px;
+}
+i
+{
+    margin: 50px;
+    padding: 0px 30px 0px 30px
+}
+button {color:rgb(2, 2, 167);background-color: rgb(173, 189, 189); cursor:pointer}
+ul ; font-size: 20px; padding: 2px 110px; text-decoration:underline;}
+
