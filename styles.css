@@ -1,57 +1,97 @@
-*{
+*
+{
     background-color :#D0D3D9;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
-header{
+header
+{
     background-color: #396f91;
     padding: 10px;
     border-radius: 100px;
 }
-
-header a{
+header a
+{
     background-color: #396f91;
     color:rgb(211, 209, 209);
     border-radius: 10px;
     margin: 30px;
 }
-
-h1{
+h1
+{
     color:  #396f91;
 }
 
-.indie-flower-regular{
+.indie-flower-regular
+ {
     font-family: "Indie Flower", cursive;
     font-weight: 400;
     font-style: normal;
-}
-
-h2{
+  }
+h2
+{
     color:#4eabe6;
 }
-
-h4{
+h4
+{
     color: #396f91;
     font-weight: normal;
 }
-
-#img{
+#img
+{
     border-color:#047192;
     border-style:solid;
     border-width: 10px;
 }
-
-i{
+i
+{
     margin: 50px;
     padding: 0px 30px 0px 30px
 }
-
-button {
-    color:rgb(2, 2, 167);
-    background-color: rgb(173, 189, 189); 
-    cursor:pointer}
-ul{ 
-    font-size: 20px; 
-    padding: 2px 110px; 
-    text-decoration:underline;}
-
+ul 
+{
+    font-size: 20px;
+    padding: 2px 110px;
+    text-decoration:underline;
+}
+#caja
+{
+    color: #D0D3D9;
+    background-color:  #396f91;
+    border: 5px dotted #000000; /** solid, dotted, dashed, double **/
+    padding: 30px 50px; /** de 1 a 4 valores **/
+    margin: 20px 400px; /** de 1 a 4 valores **/
+    border-radius: 100px;
+    border-color: rgb(252, 252, 255);   
+}
+em
+{
+    background-color:  #396f91;
+}   
+p strong
+{
+    background-color:  #396f91;
+}
+.video
+{
+    padding: 20px, 30px;
+    background-color: #396f91;
+    border: 50px,100px;
+    margin: 50px;
+    
+}
+.boton
+{
+    background-color: #396f91;
+    color: #fbfcfd;
+    height: 40px;
+    width: 120px;
+    font-size: larger;
+    margin-top: 10px;
+    font-family:cursive;
+    border-color: rgb(179, 175, 209);
+    border-width: 5px;
+}
+p:hover
+{
+    text-decoration: underline;
+}
