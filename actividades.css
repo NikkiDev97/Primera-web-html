@@ -1,5 +1,5 @@
 body{
-    background-color:#D0D3D9;
+    background-color:#D0D3D9 !important;
 }
 
 h2{
@@ -32,11 +32,18 @@ header a{
 }
 
 header{
-    background-color: #396f91;
+    background-color: #2A394F;
     padding: 10px;
-    border-radius: 100px;
-    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
+ 
+
 
 footer{
     text-align: center;
